@@ -1,16 +1,16 @@
-## Hi there 👋
+CARLA TORRES
+Full Stack JavaScript Trainee
+🎓 Talento Digital
+💻 SOBRE MÍ
+Busco mi primera oportunidad laboral en desarrollo de software. Me motiva aprender, crear proyectos y crecer profesionalmente.
+🛠️ MIS TECNOLOGÍAS
+HTML CSS JavaScript React Node.js
+Express Git GitHub
+🚀 Abierta a oportunidades trainee y junior
 
-<!--
-**Ctorres-star/Ctorres-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
